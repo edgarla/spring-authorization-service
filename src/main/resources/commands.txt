@@ -1,0 +1,1 @@
+http -f POST :9001/oauth2/token grant_type=authorization_code redirect_uri=https://oauthdebugger.com/debug code=AkBLt3llfdJDHDjr00GFnJy_97neMFT85u0tA3ITHVtau7NxBxg3eajQ5v_5XKRb3zKzYACKjtnAiRXtsbBsu9WDUFX9ukqwq30uQ6DMeDWBDijy6kmuQhjF_2KNDGIc -a user:secret
